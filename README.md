@@ -6,4 +6,8 @@ Attractor library for VL.Fuse by Juan Hurle based on BruPitt glChAoS.P https://g
 
 ### Changelog 
 
-v.0.0.1 - Base Version with Rampe 1 - 10 
+#### v.0.0.2
+Trigonometric Attractors  
+
+#### v.0.0.1  
+Base Version with Rampe 1 - 10 
