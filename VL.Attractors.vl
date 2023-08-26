@@ -4041,13 +4041,12 @@
           </Patch>
         </Node>
       </Canvas>
-      <Canvas Id="Cr9j5tZ9RmCLWv92wXPopC" Name="3D" Position="421,250" BordersChecked="false" CanvasType="Group" />
       <!--
 
     ************************ ClampNormalized (Advanced) ************************
 
 -->
-      <Node Name="ClampNormalized (Advanced)" Bounds="1048,323" Id="TTCsesZno7BNBMF0fZnMj0">
+      <Node Name="ClampNormalized (Advanced)" Bounds="1108,322" Id="TTCsesZno7BNBMF0fZnMj0">
         <p:NodeReference LastCategoryFullName="Primitive" LastDependency="Builtin">
           <Choice Kind="ContainerDefinition" Name="Process" />
         </p:NodeReference>
@@ -9385,7 +9384,7 @@
           </Patch>
         </Node>
       </Canvas>
-      <Canvas Id="OsKHOuaVzVoOLam0RaoDcu" Name="MorroneTransform" Position="649,543">
+      <Canvas Id="OsKHOuaVzVoOLam0RaoDcu" Name="MorroneTransform" Position="649,507">
         <!--
 
     ************************ Mira3D ************************
@@ -9412,6 +9411,7 @@
                 <ControlPoint Id="Kl3IZRMKO75LuA4zLn4i3Z" Bounds="715,324" Alignment="Top" />
                 <ControlPoint Id="Fgj7Xq90VTnMvdf13I2dwi" Bounds="745,324" Alignment="Top" />
                 <ControlPoint Id="Jzls38ueifVLf4dcKBgLxq" Bounds="775,324" Alignment="Top" />
+                <ControlPoint Id="MHnzCffsM7bOOwDOBqX8lz" Bounds="632,324" Alignment="Top" />
                 <Patch Id="BnA0UFKVYbMPIGYDFIeS8Y" ManuallySortedPins="true">
                   <Patch Id="EdOQCE08FDgNncTxGlHBED" Name="Create" ManuallySortedPins="true" />
                   <Patch Id="SkMX99QACAcOHvy8FUF3DV" Name="Then" ManuallySortedPins="true" />
@@ -9536,7 +9536,6 @@
                     <Pin Id="VxuKHaw6eVKPZLVkq181E4" Name="Output" Kind="OutputPin" />
                   </Node>
                 </Patch>
-                <ControlPoint Id="MHnzCffsM7bOOwDOBqX8lz" Bounds="632,324" Alignment="Top" />
               </Node>
               <ControlPoint Id="C0RnUeNGr2tLoPbTID9siA" Bounds="531,136" />
               <ControlPoint Id="Q45Ectgt2eyLZY8VDV1CNK" Bounds="545,777" />
@@ -9763,6 +9762,7 @@
           </Patch>
         </Node>
       </Canvas>
+      <Overlay Id="SgXdd7veR0KMOpIYtDxiEN" Name="Operations" Bounds="1084,230,329,206" />
     </Canvas>
     <!--
 
