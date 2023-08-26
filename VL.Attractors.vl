@@ -4044,10 +4044,10 @@
       <Canvas Id="Cr9j5tZ9RmCLWv92wXPopC" Name="3D" Position="421,250" BordersChecked="false" CanvasType="Group" />
       <!--
 
-    ************************ ClampNormalized ************************
+    ************************ ClampNormalized (Advanced) ************************
 
 -->
-      <Node Name="ClampNormalized" Bounds="1048,323" Id="TTCsesZno7BNBMF0fZnMj0">
+      <Node Name="ClampNormalized (Advanced)" Bounds="1048,323" Id="TTCsesZno7BNBMF0fZnMj0">
         <p:NodeReference LastCategoryFullName="Primitive" LastDependency="Builtin">
           <Choice Kind="ContainerDefinition" Name="Process" />
         </p:NodeReference>
