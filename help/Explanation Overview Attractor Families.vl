@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:p="property" xmlns:r="reflection" Id="V4gakBkfxuxMoPU5E84Wx5" LanguageVersion="2023.5.3-0157-gcbac65ecd1" Version="0.128">
+  <NugetDependency Id="H0Uf8WP6BWILn0g8FthpBd" Location="VL.CoreLib" Version="2023.5.3-0157-gcbac65ecd1" />
+  <Patch Id="QIiCRETrCLFLgt4b4oXzGF">
+    <Canvas Id="KDlAHEIsPbePhjPbmujiPZ" DefaultCategory="Main" CanvasType="FullCategory" />
+    <!--
+
+    ************************ Application ************************
+
+-->
+    <Node Name="Application" Bounds="100,100" Id="BO8CQWm828uNHTjfWaZ5D8">
+      <p:NodeReference>
+        <Choice Kind="ContainerDefinition" Name="Process" />
+        <CategoryReference Kind="Category" Name="Primitive" />
+      </p:NodeReference>
+      <Patch Id="EPk2z9CQQBNO2LfopQzulL">
+        <Canvas Id="HHSygE0kXJhOOnpb0koRrh" CanvasType="Group">
+          <Node Bounds="394,352,65,19" Id="M3iqAD2ZD1yOMrOfBDVWgr">
+            <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="Rampe_1" />
+            </p:NodeReference>
+            <Pin Id="QMenVdAE6aRN9UhpN1oQBW" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="LWbGtUTtQrdPg6qAvjkeyF" Name="Position" Kind="InputPin" />
+            <Pin Id="I5w1kHOrTLiMBBlIpVcYjR" Name="k0" Kind="InputPin" />
+            <Pin Id="PKx9DiL7BiyPDcsEHLhdWu" Name="k1" Kind="InputPin" />
+            <Pin Id="TEIeB0x7T54OkFGO86fPUu" Name="Position" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="394,395,65,19" Id="LGGPQtnbDgELiFTC6rC3VQ">
+            <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="Rampe_2" />
+            </p:NodeReference>
+            <Pin Id="IXs6iBQDKLqLnhq4Ny47KV" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="EBioV7IgUKpLcjPVD7QxwI" Name="Position" Kind="InputPin" />
+            <Pin Id="J7zdst5zoTvQHJjj7Fifgy" Name="k0" Kind="InputPin" />
+            <Pin Id="VlcxBu852i0OHwLiV5CAla" Name="k1" Kind="InputPin" />
+            <Pin Id="N67K0YoYauCM5VRChFmgf2" Name="Position" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="394,438,65,19" Id="FXI2wyy7PtlPlILcw9YaLP">
+            <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="Rampe_3" />
+            </p:NodeReference>
+            <Pin Id="HzX7qerQoNKP1zu6oNuCme" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="RPDV9C4lE3MMrXGORxi0hp" Name="Position" Kind="InputPin" />
+            <Pin Id="P8TlfeUTcTaOLfzg8zbp1v" Name="k0" Kind="InputPin" />
+            <Pin Id="E0DB2096emiOoCAh8qQiPB" Name="k1" Kind="InputPin" />
+            <Pin Id="FEJIxkxNCkkLlGN7iu6mSA" Name="Position" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="439,573,82,19" Id="NOSiy4UpQCaQaRUYHdKs58">
+            <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="Rampe_3_Mod" />
+            </p:NodeReference>
+            <Pin Id="UWP4O6YkJW2P0qLYTBVmGt" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="EQeCyzRShlxMWmY1QZ0obQ" Name="Position" Kind="InputPin" />
+            <Pin Id="LNdBwrnRGVWPMdnYuTDBFo" Name="k0" Kind="InputPin" />
+            <Pin Id="GFTA2RRfmAzQBBZkxQYUGh" Name="k1" Kind="InputPin" />
+            <Pin Id="JEo0Tz2KSriQQ4iYnKNg5x" Name="Position" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="394,481,65,19" Id="MIiUy4fGKUCLMaNeyitG9d">
+            <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="Rampe_4" />
+            </p:NodeReference>
+            <Pin Id="HvbUOw8qhLuOUv2wDzbB0H" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="TsF7GjmXaGmO7mAzJdvi1c" Name="Position" Kind="InputPin" />
+            <Pin Id="HnllOVk4xO7N01aY4tHWlj" Name="k0" Kind="InputPin" />
+            <Pin Id="GEYKWtWAGpJLhZayBcQZ6B" Name="k1" Kind="InputPin" />
+            <Pin Id="HfbePnImj4CQaW1EB03h5z" Name="Position" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="394,524,85,19" Id="BFvQ6CSSLNjNuBNJsp3tdb">
+            <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="Rampe_5" />
+            </p:NodeReference>
+            <Pin Id="T3njINyEh1INsN3D7J3dFW" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="P9WxerNpsnBM8ge2pg5ziZ" Name="Position" Kind="InputPin" />
+            <Pin Id="Af6ApYK6xONMv2IyhRGCng" Name="k0" Kind="InputPin" />
+            <Pin Id="ECcsmOwLeOJP73q3btV3kd" Name="k1" Kind="InputPin" />
+            <Pin Id="D9SMr1BFKVILllNFRewA6n" Name="k2" Kind="InputPin" />
+            <Pin Id="Sj95Ny2epHGMnAX89ThlGB" Name="Position" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="503,355,65,19" Id="T6fNTXMagakLg3rVuifQdZ">
+            <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="Rampe_6" />
+            </p:NodeReference>
+            <Pin Id="SApNPNvg5ogNf2khzMgicg" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="HuFz4v5dZnjMidv1Bhf0Zw" Name="Position" Kind="InputPin" />
+            <Pin Id="S2QrVkTf8ghPPhL2Wdhe8N" Name="k0" Kind="InputPin" />
+            <Pin Id="RxnziFyu5mhORdM2DFkhhT" Name="k1" Kind="InputPin" />
+            <Pin Id="EAHIIjQll2nQJIfp4D2oEX" Name="Position" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="503,399,65,19" Id="JUDh4IOHWLbM1WAYvnIpYd">
+            <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="Rampe_7" />
+            </p:NodeReference>
+            <Pin Id="ShDru5NSGIjOHkZ8mpey3r" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="R5icxhmVFBeMB4VnJyoYk6" Name="Position" Kind="InputPin" />
+            <Pin Id="QLM9UzwJLRlODDFCLg40dF" Name="k0" Kind="InputPin" />
+            <Pin Id="GQ21ptp6bc0LS436oQvMi4" Name="k1" Kind="InputPin" />
+            <Pin Id="TiWmMMqAhjmMBXUPcOLNSA" Name="Position" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="503,443,58,19" Id="AR3LOo4wJdgMMcUGao8SQs">
+            <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="Rampe_8" />
+            </p:NodeReference>
+            <Pin Id="JypT3fGuM4xP8QRGpVdJHA" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="PDJjEwDmLnsQabkiXQbkxm" Name="Position" Kind="InputPin" />
+            <Pin Id="PLD2TQpLTACOKIxqD4NZ4I" Name="k0" Kind="InputPin" />
+            <Pin Id="TzkecZ23MKdPlFh0iIj0wA" Name="Position" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="503,487,85,19" Id="FoQhZ7eLy0EMSyziBSplv3">
+            <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="Rampe_9" />
+            </p:NodeReference>
+            <Pin Id="H5GXbv0NRkTMDDXJDlQHVl" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="UmV4D6Yf53CMH2FAcydqZP" Name="Position" Kind="InputPin" />
+            <Pin Id="Bp2ZuyHVRe8L2zF2DImaw4" Name="k0" Kind="InputPin" />
+            <Pin Id="CiWZdSwnbfONw5ohtNx1MS" Name="k1" Kind="InputPin" />
+            <Pin Id="Rzr8idpNCZjMmmU5zJxjUo" Name="k2" Kind="InputPin" />
+            <Pin Id="GeyrIy8du3rNqjj2U527v7" Name="Position" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="503,531,85,19" Id="U0BBe9P31w6L3XcIZYZbyK">
+            <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="Rampe_10" />
+            </p:NodeReference>
+            <Pin Id="AJa6RM3C2FaOyVcIIl8abs" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="GzxgXHIp2ijOXx98VjNWbF" Name="Position" Kind="InputPin" />
+            <Pin Id="Glb8djrFdKHPWSZEVmWkXd" Name="k0" Kind="InputPin" />
+            <Pin Id="Ipe6dY5X4eOPO2C7U8BFSR" Name="k1" Kind="InputPin" />
+            <Pin Id="TO8JsnDNBw6PEnDYsIBEUw" Name="k2" Kind="InputPin" />
+            <Pin Id="PNoSrSge9wlNGsEQZEXygX" Name="Position" Kind="OutputPin" />
+          </Node>
+          <Overlay Id="QB4iYaTzM0rP1BLZ538N6Q" Name="Rampe Family" Bounds="317,266,364,379">
+            <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
+          </Overlay>
+        </Canvas>
+        <Patch Id="DJjrMtr9OF2Oz1yBXEnJLX" Name="Create" />
+        <Patch Id="JsYSh1c06XOLRgYGOA68nG" Name="Update" />
+        <ProcessDefinition Id="JiNOIXsoiRHQXUD7QW4BsH">
+          <Fragment Id="KvViYFIrXq0PkVcv89DyiH" Patch="DJjrMtr9OF2Oz1yBXEnJLX" Enabled="true" />
+          <Fragment Id="Bo6YFIy2tUMO0ZzTKD1gbE" Patch="JsYSh1c06XOLRgYGOA68nG" Enabled="true" />
+        </ProcessDefinition>
+      </Patch>
+    </Node>
+  </Patch>
+  <DocumentDependency Id="El7EJvCO4aROxuogDkgDbB" Location="../VL.Attractors.vl" />
+</Document>
