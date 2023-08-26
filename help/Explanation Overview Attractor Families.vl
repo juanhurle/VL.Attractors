@@ -138,7 +138,56 @@
             <Pin Id="TO8JsnDNBw6PEnDYsIBEUw" Name="k2" Kind="InputPin" />
             <Pin Id="PNoSrSge9wlNGsEQZEXygX" Name="Position" Kind="OutputPin" />
           </Node>
-          <Overlay Id="QB4iYaTzM0rP1BLZ538N6Q" Name="Rampe Family" Bounds="317,266,364,379">
+          <Overlay Id="QB4iYaTzM0rP1BLZ538N6Q" Name="Rampe Family" Bounds="317,266,321,357">
+            <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
+          </Overlay>
+          <Node Bounds="729,409,99,19" Id="FjYZIfa5y1tOC5qGxuvGSN">
+            <p:NodeReference LastCategoryFullName="Attractors.Trigonometric" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="Pickover_Attractor" />
+            </p:NodeReference>
+            <Pin Id="Dcnd56kVHMqQTHbMIWxxUy" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="FSzfvlZC9hvOJeirnCsx40" Name="Position" Kind="InputPin" />
+            <Pin Id="CN6PZFbYl4QOmyf59HcgO6" Name="k0" Kind="InputPin" />
+            <Pin Id="HscfFRyAiQkNzGdffV8124" Name="k1" Kind="InputPin" />
+            <Pin Id="K6d9nrmKbtCL8wKCDSMqMr" Name="k2" Kind="InputPin" />
+            <Pin Id="L7YzBqjARqkL3P5oJzaccX" Name="k3" Kind="InputPin" />
+            <Pin Id="Rg3wwqLtNY3QZuqg5gYsDr" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="729,459,185,19" Id="NoB1rURdnHPMW1Dp0yLroB">
+            <p:NodeReference LastCategoryFullName="Attractors.Trigonometric" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="SinCos_Attractor" />
+            </p:NodeReference>
+            <Pin Id="K9cWtOCYPE4OnO5nfS8npY" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="QTUxc8gSaWfK9mHqo0ogg1" Name="Position" Kind="InputPin" />
+            <Pin Id="FBBGMJf2c8xPIFBXRPriED" Name="k0" Kind="InputPin" />
+            <Pin Id="Vex51jtVZWNOysfOUsLtuI" Name="k1" Kind="InputPin" />
+            <Pin Id="DQSLep3PWEcNJcZg9rh8ix" Name="k2" Kind="InputPin" />
+            <Pin Id="IoR2d7FrEu0PmfUMucFV7R" Name="k3" Kind="InputPin" />
+            <Pin Id="SUB7F1IGuyIPAS0oYodsjY" Name="k4" Kind="InputPin" />
+            <Pin Id="LVrZ7cmlzKSMXXAwMORVqi" Name="k5" Kind="InputPin" />
+            <Pin Id="VMGiQ6rkCguOzpSJrK8Dfh" Name="k6" Kind="InputPin" />
+            <Pin Id="Vd1JukIQnEwNHqFY36gyTd" Name="k7" Kind="InputPin" />
+            <Pin Id="ACFPzoU2bttPgyuHYlTqd4" Name="k8" Kind="InputPin" />
+            <Pin Id="FoemdZPOY2tPz2oDbvygku" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="729,509,125,19" Id="EqcHoySPrTSOsDT3duDTTX">
+            <p:NodeReference LastCategoryFullName="Attractors.Trigonometric" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="KingsDream_Attractor" />
+            </p:NodeReference>
+            <Pin Id="Vt7ymBHINCHLREGInDFEUy" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="L1BpA0jw3oNL8HVzx3O7ed" Name="Position" Kind="InputPin" />
+            <Pin Id="BGZTXl15PDuLIcUEPFsHer" Name="k0" Kind="InputPin" />
+            <Pin Id="OO9aF7GDwOBPcpECiHDzFC" Name="k1" Kind="InputPin" />
+            <Pin Id="A1y3eGq847WNI6o72ycYYy" Name="k2" Kind="InputPin" />
+            <Pin Id="J0jwztUaVafOSGsH9AjDpc" Name="k3" Kind="InputPin" />
+            <Pin Id="JV8N0h91OvsOM99eQyREOg" Name="k4" Kind="InputPin" />
+            <Pin Id="ALptAl0WaaoONtDiPhmanN" Name="k5" Kind="InputPin" />
+            <Pin Id="S7nlT3dWAHOMdTtd2KNP8u" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Overlay Id="Or6oeBwdcipMrGyhdy6mJN" Name="Trigonometric" Bounds="704,265,235,366">
             <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
           </Overlay>
         </Canvas>
@@ -152,4 +201,5 @@
     </Node>
   </Patch>
   <DocumentDependency Id="El7EJvCO4aROxuogDkgDbB" Location="../VL.Attractors.vl" />
+  <NugetDependency Id="Hb0HR66KhgwPrWqUujplrm" Location="VL.Fuse" Version="1.0.0-alpha08" />
 </Document>
