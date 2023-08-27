@@ -190,6 +190,190 @@
           <Overlay Id="Or6oeBwdcipMrGyhdy6mJN" Name="Trigonometric" Bounds="704,265,235,366">
             <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
           </Overlay>
+          <Overlay Id="OjuVfwo0lz5Lt84l0I5Qgr" Name="Differential" Bounds="315,693,656,405">
+            <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
+          </Overlay>
+          <Node Bounds="399,756,145,19" Id="PNZDto4PxPgNaF4Dk8v23e">
+            <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <CategoryReference Kind="Category" Name="Differential" />
+              <Choice Kind="ProcessAppFlag" Name="Aizawa" />
+            </p:NodeReference>
+            <Pin Id="RAbAB5JvHguM3Ci8u79Vto" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="JEAKYPPQfRiOzjjEm1r7kG" Name="Position" Kind="InputPin" />
+            <Pin Id="VLUwxJlUIaFLM2liRMhgu4" Name="StepSize" Kind="InputPin" />
+            <Pin Id="T3U0fdsTDYiMfnUO7bkfvD" Name="k0" Kind="InputPin" />
+            <Pin Id="GMZYAQxZDxOOVpPDGbTOJ0" Name="k1" Kind="InputPin" />
+            <Pin Id="NLN5r8rQfkjLqVw17BZMwL" Name="k2" Kind="InputPin" />
+            <Pin Id="U7nOJRsW5uKMtiPBD9bBXI" Name="k3" Kind="InputPin" />
+            <Pin Id="RgdgEZUinv2OywxlfdYOBX" Name="k4" Kind="InputPin" />
+            <Pin Id="D0B2PwhaC2wQCHg1KaKf2T" Name="k5" Kind="InputPin" />
+            <Pin Id="QJBE7cWiJCTLUgRFomY4nq" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="399,804,85,19" Id="RcOBx6v8ttaNX5bJkPR0W2">
+            <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <CategoryReference Kind="Category" Name="Differential" />
+              <Choice Kind="ProcessAppFlag" Name="Arneodo" />
+            </p:NodeReference>
+            <Pin Id="DPwe2WjomIIOZJFwHN2ZoI" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="Vhw2p6iIjooPyqpnU4iz1Z" Name="Position" Kind="InputPin" />
+            <Pin Id="V1GCJaey610LObnpU3Vg50" Name="StepSize" Kind="InputPin" />
+            <Pin Id="O1rZhxkR9lBNMmbf3qgL0N" Name="k0" Kind="InputPin" />
+            <Pin Id="Bspql4WuRcNPNznVsiCVnn" Name="k1" Kind="InputPin" />
+            <Pin Id="JF6PdXDwPKRM1P9yFUx70S" Name="k2" Kind="InputPin" />
+            <Pin Id="ICrmY6tcw5DNFFz2zNdaxe" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="399,852,88,19" Id="M3w035gx8yrLBIO6VkbJGG">
+            <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <CategoryReference Kind="Category" Name="Differential" />
+              <Choice Kind="ProcessAppFlag" Name="ChenCelikovsky" />
+            </p:NodeReference>
+            <Pin Id="JAjKFxmAHfiM6dcpfUz4mX" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="ISp2dXRlZbUM07LX6R3Qev" Name="Position" Kind="InputPin" />
+            <Pin Id="HwTd2HD9ITpMPRNUFbLdUP" Name="StepSize" Kind="InputPin" />
+            <Pin Id="D2Ub19BunxGPDH0kEKbIa3" Name="k0" Kind="InputPin" />
+            <Pin Id="GIf2iN0W7grNJnUOWzoFO5" Name="k1" Kind="InputPin" />
+            <Pin Id="GSeevS0bj02Ly2JCDpUIDy" Name="k2" Kind="InputPin" />
+            <Pin Id="KfIxM7aLkJdQCuswFkjTTy" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="399,900,85,19" Id="QGQHWBU0odaMyqpvrhq9Ej">
+            <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <CategoryReference Kind="Category" Name="Differential" />
+              <Choice Kind="ProcessAppFlag" Name="ChenLee" />
+            </p:NodeReference>
+            <Pin Id="JO1nw9NzNYwP8hBzlWzxqD" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="Jh5Uq0JxZP5PJcnEDSKAlk" Name="Position" Kind="InputPin" />
+            <Pin Id="Mr7dVIQnfFTOnN4hk66ZyL" Name="StepSize" Kind="InputPin" />
+            <Pin Id="AlPH4YXUdzxMRAAVjVVmzD" Name="k0" Kind="InputPin" />
+            <Pin Id="MWha8L55sqAOCB57VKlrV9" Name="k1" Kind="InputPin" />
+            <Pin Id="OA5b5OtgFSNO0Me1tuGDil" Name="k2" Kind="InputPin" />
+            <Pin Id="HSDsQLx0FhfPujguXyFL3H" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="399,948,125,19" Id="J7rLwQYHilFOzefyHsFk9G">
+            <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <CategoryReference Kind="Category" Name="Differential" />
+              <Choice Kind="ProcessAppFlag" Name="FourWing" />
+            </p:NodeReference>
+            <Pin Id="EkzeQOhfNkKQGyiJPigxDh" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="UManlj9A1ufMtIknOFnTVI" Name="Position" Kind="InputPin" />
+            <Pin Id="RH1nkJSLbLDOP7HfmJgpav" Name="StepSize" Kind="InputPin" />
+            <Pin Id="F8UTCyGvfyGPvYLwqp6PrY" Name="k0" Kind="InputPin" />
+            <Pin Id="OvvT4Q1OajJOkaD3DHxBCh" Name="k1" Kind="InputPin" />
+            <Pin Id="T1kh5aZBWo7NFwfEx74JzT" Name="k2" Kind="InputPin" />
+            <Pin Id="BsMYw2KtOrxM4BYGtECnIf" Name="k3" Kind="InputPin" />
+            <Pin Id="CvHvk6RHBZXMGbACb1SJJP" Name="k4" Kind="InputPin" />
+            <Pin Id="P8VqrbkMbnmNkLNEjlp9ca" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="399,996,145,19" Id="SBuPuHxn4ajOYcr7Htmo4O">
+            <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="FourWing2" />
+            </p:NodeReference>
+            <Pin Id="P0FwmT4zdcJM5SGHBU5y2k" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="C4GemO0MUBeQWDt8u4VMlL" Name="Position" Kind="InputPin" />
+            <Pin Id="D0bHpwTcOQnMQwhPHIg4t8" Name="StepSize" Kind="InputPin" />
+            <Pin Id="MzOWqKFeaqYO4VX0WnR3pR" Name="k0" Kind="InputPin" />
+            <Pin Id="JJ2TaojuW6oNv2n1Q18Lw1" Name="k1" Kind="InputPin" />
+            <Pin Id="ROO6K8AiHZwLzeZSvS2OEp" Name="k2" Kind="InputPin" />
+            <Pin Id="RowW7DC5uxBL87O4gDiDBy" Name="k3" Kind="InputPin" />
+            <Pin Id="FVl4WkMNxAuOlkdPEw37ID" Name="k4" Kind="InputPin" />
+            <Pin Id="M0v1iXHJsFhQVKPn7W8pot" Name="k5" Kind="InputPin" />
+            <Pin Id="OtqNmg7zqfBMxgfOLXerDG" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="399,1044,165,19" Id="PeYlMNHDdTELIHSKHpBGJ0">
+            <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="FourWing3" />
+            </p:NodeReference>
+            <Pin Id="LDjo8fXM5ZoMzc2yADnVQb" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="LZjTPeD1NQqLJIPt0qrSN0" Name="Position" Kind="InputPin" />
+            <Pin Id="SKJMLOWxGFjOESqy1B0Mq9" Name="StepSize" Kind="InputPin" />
+            <Pin Id="JpVh5VMdG6sQGxMsSNVfto" Name="k0" Kind="InputPin" />
+            <Pin Id="Hzoou4LxYucOUjXBSGr4em" Name="k1" Kind="InputPin" />
+            <Pin Id="BAWEmB4QIwvQJaTRvG4kaY" Name="k2" Kind="InputPin" />
+            <Pin Id="EJfIWpubkNqPZPpVRVPWEN" Name="k3" Kind="InputPin" />
+            <Pin Id="B59I0dZMcNhNLMPFUgTXzR" Name="k4" Kind="InputPin" />
+            <Pin Id="LegRAaCJf0gNSAAqZao1fP" Name="k5" Kind="InputPin" />
+            <Pin Id="CnlRUnZteIeOkHsrYTLfRK" Name="k6" Kind="InputPin" />
+            <Pin Id="R2YD3jvw4hTLY1qAvoHcvb" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="713,761,85,19" Id="JGEAFaGCM4zOSYL7ZlKTc4">
+            <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <CategoryReference Kind="Category" Name="Differential" />
+              <Choice Kind="ProcessAppFlag" Name="Halvorsen" />
+            </p:NodeReference>
+            <Pin Id="PwdDlgZu1vuOmnmKI5w915" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="TBZZUg8Z9DeLsKdYjmEyGZ" Name="Position" Kind="InputPin" />
+            <Pin Id="BZMt90JFaJLNSWCIZYektg" Name="StepSize" Kind="InputPin" />
+            <Pin Id="K7Xp3HPo8VqMqNDwl8pdhM" Name="k0" Kind="InputPin" />
+            <Pin Id="ARPlGgK5wTRPgj9AXWIikg" Name="k1" Kind="InputPin" />
+            <Pin Id="VcpmbNhk9VyMh5fOiSTnap" Name="k2" Kind="InputPin" />
+            <Pin Id="KUlTkdYfnd9PIRuSGuqHpV" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="713,814,85,19" Id="FKv2qN3g0RCQJMDtDOoaxt">
+            <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="Lorenz" />
+            </p:NodeReference>
+            <Pin Id="PGx6G0M3xCAPIaPrE95b4j" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="NT4r08SszDFNSFYTtPZk47" Name="Position" Kind="InputPin" />
+            <Pin Id="J5eya6RwQh7OztO032uyPk" Name="StepSize" Kind="InputPin" />
+            <Pin Id="Io4f2GRE1ulQI6thm4IqWB" Name="k0" Kind="InputPin" />
+            <Pin Id="U4PRXJFihBiLDE6qGqC66i" Name="k1" Kind="InputPin" />
+            <Pin Id="OgyLKldTltxO95O6zZvyrk" Name="k2" Kind="InputPin" />
+            <Pin Id="Oot6uKeO9bTLwQHQVgP4BJ" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="713,867,145,19" Id="JK13579VnEuQYShuRQ61rB">
+            <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <CategoryReference Kind="Category" Name="Differential" />
+              <Choice Kind="ProcessAppFlag" Name="TSUCS" />
+            </p:NodeReference>
+            <Pin Id="NmInkQM9aStMVYVetIHAJR" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="GhzameMUHFPOcAEaZAaShe" Name="Position" Kind="InputPin" />
+            <Pin Id="BlpOxmSljFQQG21HKznz35" Name="StepSize" Kind="InputPin" />
+            <Pin Id="Jg7EVqC9A17N91eqE60iyy" Name="k0" Kind="InputPin" />
+            <Pin Id="NqEv5096eSsL4ZShW5SODf" Name="k1" Kind="InputPin" />
+            <Pin Id="VwInwH2kWppLWLhPNCgRUQ" Name="k2" Kind="InputPin" />
+            <Pin Id="RRwIx5v8I1hMfwi74U0pq3" Name="k3" Kind="InputPin" />
+            <Pin Id="IgOpa1ehFMRQSwlrMZkoTT" Name="k4" Kind="InputPin" />
+            <Pin Id="MuD4hW0ANiUNido24oKBpw" Name="k5" Kind="InputPin" />
+            <Pin Id="RtfVQVvCcpvO24Vnh9lNL7" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="713,920,85,19" Id="NYArAV4wq80OdMXcuIv0tS">
+            <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <CategoryReference Kind="Category" Name="Differential" />
+              <Choice Kind="ProcessAppFlag" Name="Thomas" />
+            </p:NodeReference>
+            <Pin Id="MsYq7h9F4I2Nmq8Ucai4dz" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="ORmrx4Q9G3JM78tphx7c5q" Name="Position" Kind="InputPin" />
+            <Pin Id="Leb4NC9nOnEODzZKS7wYGx" Name="StepSize" Kind="InputPin" />
+            <Pin Id="PNLb4qqv4IIQN3OWwjA5vM" Name="k0" Kind="InputPin" />
+            <Pin Id="QarP2VGLl7BLnT26J4SYg8" Name="k1" Kind="InputPin" />
+            <Pin Id="Uz6oSHJAzmRM8QgJMcMOk1" Name="k2" Kind="InputPin" />
+            <Pin Id="P2tr7WiD6DaOHJuvXvZbFb" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="713,973,105,19" Id="O9ZwZTlkIAYPgjDxQOFWoK">
+            <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <CategoryReference Kind="Category" Name="Differential" />
+              <Choice Kind="ProcessAppFlag" Name="YuWang" />
+            </p:NodeReference>
+            <Pin Id="O7CryQ7IWrbQZPaBPZJZbq" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="O77ogJ16YzvP8CWrpwyTUf" Name="Position" Kind="InputPin" />
+            <Pin Id="HciI7aDUcDUPF65kkilSnB" Name="StepSize" Kind="InputPin" />
+            <Pin Id="PihI18cHlzLNwnXLuXuLRN" Name="k0" Kind="InputPin" />
+            <Pin Id="TlBAd7Ba0BXPDvaohkwSE6" Name="k1" Kind="InputPin" />
+            <Pin Id="IElNWl9XSGTQMNFgN7U3XE" Name="k2" Kind="InputPin" />
+            <Pin Id="FpJxgV4qdLYO9jlbX4Tzui" Name="k3" Kind="InputPin" />
+            <Pin Id="E6YfOITSqxjMeudbWJEBxx" Name="Output" Kind="OutputPin" />
+          </Node>
         </Canvas>
         <Patch Id="DJjrMtr9OF2Oz1yBXEnJLX" Name="Create" />
         <Patch Id="JsYSh1c06XOLRgYGOA68nG" Name="Update" />
