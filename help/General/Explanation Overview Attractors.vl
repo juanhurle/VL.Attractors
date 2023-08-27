@@ -15,7 +15,7 @@
       </p:NodeReference>
       <Patch Id="EPk2z9CQQBNO2LfopQzulL">
         <Canvas Id="HHSygE0kXJhOOnpb0koRrh" CanvasType="Group">
-          <Node Bounds="394,352,65,19" Id="M3iqAD2ZD1yOMrOfBDVWgr">
+          <Node Bounds="216,166,65,19" Id="M3iqAD2ZD1yOMrOfBDVWgr">
             <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Rampe_1" />
@@ -26,7 +26,7 @@
             <Pin Id="PKx9DiL7BiyPDcsEHLhdWu" Name="k1" Kind="InputPin" />
             <Pin Id="TEIeB0x7T54OkFGO86fPUu" Name="Position" Kind="OutputPin" />
           </Node>
-          <Node Bounds="394,395,65,19" Id="LGGPQtnbDgELiFTC6rC3VQ">
+          <Node Bounds="216,209,65,19" Id="LGGPQtnbDgELiFTC6rC3VQ">
             <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Rampe_2" />
@@ -37,7 +37,7 @@
             <Pin Id="VlcxBu852i0OHwLiV5CAla" Name="k1" Kind="InputPin" />
             <Pin Id="N67K0YoYauCM5VRChFmgf2" Name="Position" Kind="OutputPin" />
           </Node>
-          <Node Bounds="394,438,65,19" Id="FXI2wyy7PtlPlILcw9YaLP">
+          <Node Bounds="216,252,65,19" Id="FXI2wyy7PtlPlILcw9YaLP">
             <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Rampe_3" />
@@ -48,7 +48,7 @@
             <Pin Id="E0DB2096emiOoCAh8qQiPB" Name="k1" Kind="InputPin" />
             <Pin Id="FEJIxkxNCkkLlGN7iu6mSA" Name="Position" Kind="OutputPin" />
           </Node>
-          <Node Bounds="439,573,82,19" Id="NOSiy4UpQCaQaRUYHdKs58">
+          <Node Bounds="261,387,82,19" Id="NOSiy4UpQCaQaRUYHdKs58">
             <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Rampe_3_Mod" />
@@ -59,7 +59,7 @@
             <Pin Id="GFTA2RRfmAzQBBZkxQYUGh" Name="k1" Kind="InputPin" />
             <Pin Id="JEo0Tz2KSriQQ4iYnKNg5x" Name="Position" Kind="OutputPin" />
           </Node>
-          <Node Bounds="394,481,65,19" Id="MIiUy4fGKUCLMaNeyitG9d">
+          <Node Bounds="216,295,65,19" Id="MIiUy4fGKUCLMaNeyitG9d">
             <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Rampe_4" />
@@ -70,7 +70,7 @@
             <Pin Id="GEYKWtWAGpJLhZayBcQZ6B" Name="k1" Kind="InputPin" />
             <Pin Id="HfbePnImj4CQaW1EB03h5z" Name="Position" Kind="OutputPin" />
           </Node>
-          <Node Bounds="394,524,85,19" Id="BFvQ6CSSLNjNuBNJsp3tdb">
+          <Node Bounds="216,338,85,19" Id="BFvQ6CSSLNjNuBNJsp3tdb">
             <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Rampe_5" />
@@ -82,7 +82,7 @@
             <Pin Id="D9SMr1BFKVILllNFRewA6n" Name="k2" Kind="InputPin" />
             <Pin Id="Sj95Ny2epHGMnAX89ThlGB" Name="Position" Kind="OutputPin" />
           </Node>
-          <Node Bounds="503,355,65,19" Id="T6fNTXMagakLg3rVuifQdZ">
+          <Node Bounds="325,169,65,19" Id="T6fNTXMagakLg3rVuifQdZ">
             <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Rampe_6" />
@@ -93,7 +93,7 @@
             <Pin Id="RxnziFyu5mhORdM2DFkhhT" Name="k1" Kind="InputPin" />
             <Pin Id="EAHIIjQll2nQJIfp4D2oEX" Name="Position" Kind="OutputPin" />
           </Node>
-          <Node Bounds="503,399,65,19" Id="JUDh4IOHWLbM1WAYvnIpYd">
+          <Node Bounds="325,213,65,19" Id="JUDh4IOHWLbM1WAYvnIpYd">
             <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Rampe_7" />
@@ -104,7 +104,7 @@
             <Pin Id="GQ21ptp6bc0LS436oQvMi4" Name="k1" Kind="InputPin" />
             <Pin Id="TiWmMMqAhjmMBXUPcOLNSA" Name="Position" Kind="OutputPin" />
           </Node>
-          <Node Bounds="503,443,58,19" Id="AR3LOo4wJdgMMcUGao8SQs">
+          <Node Bounds="325,257,58,19" Id="AR3LOo4wJdgMMcUGao8SQs">
             <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Rampe_8" />
@@ -114,7 +114,7 @@
             <Pin Id="PLD2TQpLTACOKIxqD4NZ4I" Name="k0" Kind="InputPin" />
             <Pin Id="TzkecZ23MKdPlFh0iIj0wA" Name="Position" Kind="OutputPin" />
           </Node>
-          <Node Bounds="503,487,85,19" Id="FoQhZ7eLy0EMSyziBSplv3">
+          <Node Bounds="325,301,85,19" Id="FoQhZ7eLy0EMSyziBSplv3">
             <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Rampe_9" />
@@ -126,7 +126,7 @@
             <Pin Id="Rzr8idpNCZjMmmU5zJxjUo" Name="k2" Kind="InputPin" />
             <Pin Id="GeyrIy8du3rNqjj2U527v7" Name="Position" Kind="OutputPin" />
           </Node>
-          <Node Bounds="503,531,85,19" Id="U0BBe9P31w6L3XcIZYZbyK">
+          <Node Bounds="325,345,85,19" Id="U0BBe9P31w6L3XcIZYZbyK">
             <p:NodeReference LastCategoryFullName="Attractors.Rampe" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Rampe_10" />
@@ -138,10 +138,10 @@
             <Pin Id="TO8JsnDNBw6PEnDYsIBEUw" Name="k2" Kind="InputPin" />
             <Pin Id="PNoSrSge9wlNGsEQZEXygX" Name="Position" Kind="OutputPin" />
           </Node>
-          <Overlay Id="QB4iYaTzM0rP1BLZ538N6Q" Name="Rampe Family" Bounds="317,266,321,357">
+          <Overlay Id="QB4iYaTzM0rP1BLZ538N6Q" Name="Rampe Family" Bounds="139,80,321,357">
             <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
           </Overlay>
-          <Node Bounds="680,410,105,19" Id="FjYZIfa5y1tOC5qGxuvGSN">
+          <Node Bounds="502,224,105,19" Id="FjYZIfa5y1tOC5qGxuvGSN">
             <p:NodeReference LastCategoryFullName="Attractors.Trigonometric" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Pickover_Attractor" />
@@ -154,7 +154,7 @@
             <Pin Id="L7YzBqjARqkL3P5oJzaccX" Name="k3" Kind="InputPin" />
             <Pin Id="Rg3wwqLtNY3QZuqg5gYsDr" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="680,460,205,19" Id="NoB1rURdnHPMW1Dp0yLroB">
+          <Node Bounds="502,274,205,19" Id="NoB1rURdnHPMW1Dp0yLroB">
             <p:NodeReference LastCategoryFullName="Attractors.Trigonometric" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="SinCos_Attractor" />
@@ -172,7 +172,7 @@
             <Pin Id="ACFPzoU2bttPgyuHYlTqd4" Name="k8" Kind="InputPin" />
             <Pin Id="FoemdZPOY2tPz2oDbvygku" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="680,510,145,19" Id="EqcHoySPrTSOsDT3duDTTX">
+          <Node Bounds="502,324,145,19" Id="EqcHoySPrTSOsDT3duDTTX">
             <p:NodeReference LastCategoryFullName="Attractors.Trigonometric" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="KingsDream_Attractor" />
@@ -187,13 +187,13 @@
             <Pin Id="ALptAl0WaaoONtDiPhmanN" Name="k5" Kind="InputPin" />
             <Pin Id="S7nlT3dWAHOMdTtd2KNP8u" Name="Output" Kind="OutputPin" />
           </Node>
-          <Overlay Id="Or6oeBwdcipMrGyhdy6mJN" Name="Trigonometric" Bounds="655,266,235,359">
+          <Overlay Id="Or6oeBwdcipMrGyhdy6mJN" Name="Trigonometric" Bounds="477,80,235,359">
             <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
           </Overlay>
-          <Overlay Id="OjuVfwo0lz5Lt84l0I5Qgr" Name="Differential" Bounds="316,660,656,405">
+          <Overlay Id="OjuVfwo0lz5Lt84l0I5Qgr" Name="Differential" Bounds="138,474,656,405">
             <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
           </Overlay>
-          <Node Bounds="400,723,165,19" Id="PNZDto4PxPgNaF4Dk8v23e">
+          <Node Bounds="222,537,165,19" Id="PNZDto4PxPgNaF4Dk8v23e">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -210,7 +210,7 @@
             <Pin Id="D0B2PwhaC2wQCHg1KaKf2T" Name="k5" Kind="InputPin" />
             <Pin Id="QJBE7cWiJCTLUgRFomY4nq" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="400,771,105,19" Id="RcOBx6v8ttaNX5bJkPR0W2">
+          <Node Bounds="222,585,105,19" Id="RcOBx6v8ttaNX5bJkPR0W2">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -224,7 +224,7 @@
             <Pin Id="JF6PdXDwPKRM1P9yFUx70S" Name="k2" Kind="InputPin" />
             <Pin Id="ICrmY6tcw5DNFFz2zNdaxe" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="400,819,105,19" Id="M3w035gx8yrLBIO6VkbJGG">
+          <Node Bounds="222,633,105,19" Id="M3w035gx8yrLBIO6VkbJGG">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -238,7 +238,7 @@
             <Pin Id="GSeevS0bj02Ly2JCDpUIDy" Name="k2" Kind="InputPin" />
             <Pin Id="KfIxM7aLkJdQCuswFkjTTy" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="400,867,105,19" Id="QGQHWBU0odaMyqpvrhq9Ej">
+          <Node Bounds="222,681,105,19" Id="QGQHWBU0odaMyqpvrhq9Ej">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -252,7 +252,7 @@
             <Pin Id="OA5b5OtgFSNO0Me1tuGDil" Name="k2" Kind="InputPin" />
             <Pin Id="HSDsQLx0FhfPujguXyFL3H" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="400,915,145,19" Id="J7rLwQYHilFOzefyHsFk9G">
+          <Node Bounds="222,729,145,19" Id="J7rLwQYHilFOzefyHsFk9G">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -268,7 +268,7 @@
             <Pin Id="CvHvk6RHBZXMGbACb1SJJP" Name="k4" Kind="InputPin" />
             <Pin Id="P8VqrbkMbnmNkLNEjlp9ca" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="400,963,165,19" Id="SBuPuHxn4ajOYcr7Htmo4O">
+          <Node Bounds="222,777,165,19" Id="SBuPuHxn4ajOYcr7Htmo4O">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="FourWing2" />
@@ -284,7 +284,7 @@
             <Pin Id="M0v1iXHJsFhQVKPn7W8pot" Name="k5" Kind="InputPin" />
             <Pin Id="OtqNmg7zqfBMxgfOLXerDG" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="400,1011,185,19" Id="PeYlMNHDdTELIHSKHpBGJ0">
+          <Node Bounds="222,825,185,19" Id="PeYlMNHDdTELIHSKHpBGJ0">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="FourWing3" />
@@ -301,7 +301,7 @@
             <Pin Id="CnlRUnZteIeOkHsrYTLfRK" Name="k6" Kind="InputPin" />
             <Pin Id="R2YD3jvw4hTLY1qAvoHcvb" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="714,728,105,19" Id="JGEAFaGCM4zOSYL7ZlKTc4">
+          <Node Bounds="536,542,105,19" Id="JGEAFaGCM4zOSYL7ZlKTc4">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -315,7 +315,7 @@
             <Pin Id="VcpmbNhk9VyMh5fOiSTnap" Name="k2" Kind="InputPin" />
             <Pin Id="KUlTkdYfnd9PIRuSGuqHpV" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="714,781,105,19" Id="FKv2qN3g0RCQJMDtDOoaxt">
+          <Node Bounds="536,595,105,19" Id="FKv2qN3g0RCQJMDtDOoaxt">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Lorenz" />
@@ -328,7 +328,7 @@
             <Pin Id="OgyLKldTltxO95O6zZvyrk" Name="k2" Kind="InputPin" />
             <Pin Id="Oot6uKeO9bTLwQHQVgP4BJ" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="714,834,165,19" Id="JK13579VnEuQYShuRQ61rB">
+          <Node Bounds="536,648,165,19" Id="JK13579VnEuQYShuRQ61rB">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -345,7 +345,7 @@
             <Pin Id="MuD4hW0ANiUNido24oKBpw" Name="k5" Kind="InputPin" />
             <Pin Id="RtfVQVvCcpvO24Vnh9lNL7" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="714,887,105,19" Id="NYArAV4wq80OdMXcuIv0tS">
+          <Node Bounds="536,701,105,19" Id="NYArAV4wq80OdMXcuIv0tS">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -359,7 +359,7 @@
             <Pin Id="Uz6oSHJAzmRM8QgJMcMOk1" Name="k2" Kind="InputPin" />
             <Pin Id="P2tr7WiD6DaOHJuvXvZbFb" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="714,940,125,19" Id="O9ZwZTlkIAYPgjDxQOFWoK">
+          <Node Bounds="536,754,125,19" Id="O9ZwZTlkIAYPgjDxQOFWoK">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -374,10 +374,10 @@
             <Pin Id="FpJxgV4qdLYO9jlbX4Tzui" Name="k3" Kind="InputPin" />
             <Pin Id="E6YfOITSqxjMeudbWJEBxx" Name="Output" Kind="OutputPin" />
           </Node>
-          <Overlay Id="A2KevQNBtthOPy6VDLkTlr" Name="Morrone Transform" Bounds="908,269,148,355">
+          <Overlay Id="A2KevQNBtthOPy6VDLkTlr" Name="Morrone Transform" Bounds="730,83,174,355">
             <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
           </Overlay>
-          <Node Bounds="925,359,105,19" Id="EWmKcrDu0VEPe53wncvbEj">
+          <Node Bounds="747,173,105,19" Id="EWmKcrDu0VEPe53wncvbEj">
             <p:NodeReference LastCategoryFullName="Attractors.MorroneTransform" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Mira3D" />
@@ -390,7 +390,7 @@
             <Pin Id="M6KqvQyQjaXLWk5tNPNtB3" Name="k3" Kind="InputPin" />
             <Pin Id="UnxXxENehClPLopXe7leew" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="925,394,145,19" Id="HbMbZRURpyxOQJrEBU2hLn">
+          <Node Bounds="747,208,145,19" Id="HbMbZRURpyxOQJrEBU2hLn">
             <p:NodeReference LastCategoryFullName="Attractors.MorroneTransform" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Popcorn3D" />
