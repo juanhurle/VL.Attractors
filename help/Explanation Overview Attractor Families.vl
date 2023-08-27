@@ -377,7 +377,7 @@
           <Overlay Id="A2KevQNBtthOPy6VDLkTlr" Name="Morrone Transform" Bounds="908,269,148,355">
             <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
           </Overlay>
-          <Node Bounds="929,359,85,19" Id="EWmKcrDu0VEPe53wncvbEj">
+          <Node Bounds="925,359,85,19" Id="EWmKcrDu0VEPe53wncvbEj">
             <p:NodeReference LastCategoryFullName="Attractors.MorroneTransform" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Mira3D" />
@@ -389,6 +389,21 @@
             <Pin Id="HKXFMkIco55QQAa9YDYIbO" Name="k2" Kind="InputPin" />
             <Pin Id="M6KqvQyQjaXLWk5tNPNtB3" Name="k3" Kind="InputPin" />
             <Pin Id="UnxXxENehClPLopXe7leew" Name="Output" Kind="OutputPin" />
+          </Node>
+          <Node Bounds="925,394,125,19" Id="HbMbZRURpyxOQJrEBU2hLn">
+            <p:NodeReference LastCategoryFullName="Attractors.MorroneTransform" LastDependency="VL.Attractors.vl">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="ProcessAppFlag" Name="Popcorn3D" />
+            </p:NodeReference>
+            <Pin Id="Lrmnjl3hPIVQKRZkOu0uSP" Name="Node Context" Kind="InputPin" IsHidden="true" />
+            <Pin Id="ScCiyzP3JohMJU1ktS9R7c" Name="Position" Kind="InputPin" />
+            <Pin Id="Vue6FKBhqfcObQW2z3cAqb" Name="k0" Kind="InputPin" />
+            <Pin Id="On2fO3EUrkfMkI13N5sJVu" Name="k1" Kind="InputPin" />
+            <Pin Id="Ftz6PCAA2YZNJrSOFkTouY" Name="k2" Kind="InputPin" />
+            <Pin Id="NP1THmhUrCxNB2z0FIwsKR" Name="k3" Kind="InputPin" />
+            <Pin Id="JFQzzP3modCLxcHo58heJE" Name="k4" Kind="InputPin" />
+            <Pin Id="NGgeZTPyXPEP4zwvxI8sJJ" Name="k5" Kind="InputPin" />
+            <Pin Id="LwADV2dmUFaNgh8JN8x901" Name="Output" Kind="OutputPin" />
           </Node>
         </Canvas>
         <Patch Id="DJjrMtr9OF2Oz1yBXEnJLX" Name="Create" />
