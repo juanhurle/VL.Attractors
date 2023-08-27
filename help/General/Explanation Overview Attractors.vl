@@ -141,7 +141,7 @@
           <Overlay Id="QB4iYaTzM0rP1BLZ538N6Q" Name="Rampe Family" Bounds="317,266,321,357">
             <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
           </Overlay>
-          <Node Bounds="680,410,99,19" Id="FjYZIfa5y1tOC5qGxuvGSN">
+          <Node Bounds="680,410,105,19" Id="FjYZIfa5y1tOC5qGxuvGSN">
             <p:NodeReference LastCategoryFullName="Attractors.Trigonometric" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Pickover_Attractor" />
@@ -154,7 +154,7 @@
             <Pin Id="L7YzBqjARqkL3P5oJzaccX" Name="k3" Kind="InputPin" />
             <Pin Id="Rg3wwqLtNY3QZuqg5gYsDr" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="680,460,185,19" Id="NoB1rURdnHPMW1Dp0yLroB">
+          <Node Bounds="680,460,205,19" Id="NoB1rURdnHPMW1Dp0yLroB">
             <p:NodeReference LastCategoryFullName="Attractors.Trigonometric" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="SinCos_Attractor" />
@@ -172,7 +172,7 @@
             <Pin Id="ACFPzoU2bttPgyuHYlTqd4" Name="k8" Kind="InputPin" />
             <Pin Id="FoemdZPOY2tPz2oDbvygku" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="680,510,125,19" Id="EqcHoySPrTSOsDT3duDTTX">
+          <Node Bounds="680,510,145,19" Id="EqcHoySPrTSOsDT3duDTTX">
             <p:NodeReference LastCategoryFullName="Attractors.Trigonometric" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="KingsDream_Attractor" />
@@ -193,7 +193,7 @@
           <Overlay Id="OjuVfwo0lz5Lt84l0I5Qgr" Name="Differential" Bounds="316,660,656,405">
             <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
           </Overlay>
-          <Node Bounds="400,723,145,19" Id="PNZDto4PxPgNaF4Dk8v23e">
+          <Node Bounds="400,723,165,19" Id="PNZDto4PxPgNaF4Dk8v23e">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -210,7 +210,7 @@
             <Pin Id="D0B2PwhaC2wQCHg1KaKf2T" Name="k5" Kind="InputPin" />
             <Pin Id="QJBE7cWiJCTLUgRFomY4nq" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="400,771,85,19" Id="RcOBx6v8ttaNX5bJkPR0W2">
+          <Node Bounds="400,771,105,19" Id="RcOBx6v8ttaNX5bJkPR0W2">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -224,7 +224,7 @@
             <Pin Id="JF6PdXDwPKRM1P9yFUx70S" Name="k2" Kind="InputPin" />
             <Pin Id="ICrmY6tcw5DNFFz2zNdaxe" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="400,819,88,19" Id="M3w035gx8yrLBIO6VkbJGG">
+          <Node Bounds="400,819,105,19" Id="M3w035gx8yrLBIO6VkbJGG">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -238,7 +238,7 @@
             <Pin Id="GSeevS0bj02Ly2JCDpUIDy" Name="k2" Kind="InputPin" />
             <Pin Id="KfIxM7aLkJdQCuswFkjTTy" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="400,867,85,19" Id="QGQHWBU0odaMyqpvrhq9Ej">
+          <Node Bounds="400,867,105,19" Id="QGQHWBU0odaMyqpvrhq9Ej">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -252,7 +252,7 @@
             <Pin Id="OA5b5OtgFSNO0Me1tuGDil" Name="k2" Kind="InputPin" />
             <Pin Id="HSDsQLx0FhfPujguXyFL3H" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="400,915,125,19" Id="J7rLwQYHilFOzefyHsFk9G">
+          <Node Bounds="400,915,145,19" Id="J7rLwQYHilFOzefyHsFk9G">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -268,7 +268,7 @@
             <Pin Id="CvHvk6RHBZXMGbACb1SJJP" Name="k4" Kind="InputPin" />
             <Pin Id="P8VqrbkMbnmNkLNEjlp9ca" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="400,963,145,19" Id="SBuPuHxn4ajOYcr7Htmo4O">
+          <Node Bounds="400,963,165,19" Id="SBuPuHxn4ajOYcr7Htmo4O">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="FourWing2" />
@@ -284,7 +284,7 @@
             <Pin Id="M0v1iXHJsFhQVKPn7W8pot" Name="k5" Kind="InputPin" />
             <Pin Id="OtqNmg7zqfBMxgfOLXerDG" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="400,1011,165,19" Id="PeYlMNHDdTELIHSKHpBGJ0">
+          <Node Bounds="400,1011,185,19" Id="PeYlMNHDdTELIHSKHpBGJ0">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="FourWing3" />
@@ -301,7 +301,7 @@
             <Pin Id="CnlRUnZteIeOkHsrYTLfRK" Name="k6" Kind="InputPin" />
             <Pin Id="R2YD3jvw4hTLY1qAvoHcvb" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="714,728,85,19" Id="JGEAFaGCM4zOSYL7ZlKTc4">
+          <Node Bounds="714,728,105,19" Id="JGEAFaGCM4zOSYL7ZlKTc4">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -315,7 +315,7 @@
             <Pin Id="VcpmbNhk9VyMh5fOiSTnap" Name="k2" Kind="InputPin" />
             <Pin Id="KUlTkdYfnd9PIRuSGuqHpV" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="714,781,85,19" Id="FKv2qN3g0RCQJMDtDOoaxt">
+          <Node Bounds="714,781,105,19" Id="FKv2qN3g0RCQJMDtDOoaxt">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Lorenz" />
@@ -328,7 +328,7 @@
             <Pin Id="OgyLKldTltxO95O6zZvyrk" Name="k2" Kind="InputPin" />
             <Pin Id="Oot6uKeO9bTLwQHQVgP4BJ" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="714,834,145,19" Id="JK13579VnEuQYShuRQ61rB">
+          <Node Bounds="714,834,165,19" Id="JK13579VnEuQYShuRQ61rB">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -345,7 +345,7 @@
             <Pin Id="MuD4hW0ANiUNido24oKBpw" Name="k5" Kind="InputPin" />
             <Pin Id="RtfVQVvCcpvO24Vnh9lNL7" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="714,887,85,19" Id="NYArAV4wq80OdMXcuIv0tS">
+          <Node Bounds="714,887,105,19" Id="NYArAV4wq80OdMXcuIv0tS">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -359,7 +359,7 @@
             <Pin Id="Uz6oSHJAzmRM8QgJMcMOk1" Name="k2" Kind="InputPin" />
             <Pin Id="P2tr7WiD6DaOHJuvXvZbFb" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="714,940,105,19" Id="O9ZwZTlkIAYPgjDxQOFWoK">
+          <Node Bounds="714,940,125,19" Id="O9ZwZTlkIAYPgjDxQOFWoK">
             <p:NodeReference LastCategoryFullName="Attractors.Differential" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <CategoryReference Kind="Category" Name="Differential" />
@@ -377,7 +377,7 @@
           <Overlay Id="A2KevQNBtthOPy6VDLkTlr" Name="Morrone Transform" Bounds="908,269,148,355">
             <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
           </Overlay>
-          <Node Bounds="925,359,85,19" Id="EWmKcrDu0VEPe53wncvbEj">
+          <Node Bounds="925,359,105,19" Id="EWmKcrDu0VEPe53wncvbEj">
             <p:NodeReference LastCategoryFullName="Attractors.MorroneTransform" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Mira3D" />
@@ -390,7 +390,7 @@
             <Pin Id="M6KqvQyQjaXLWk5tNPNtB3" Name="k3" Kind="InputPin" />
             <Pin Id="UnxXxENehClPLopXe7leew" Name="Output" Kind="OutputPin" />
           </Node>
-          <Node Bounds="925,394,125,19" Id="HbMbZRURpyxOQJrEBU2hLn">
+          <Node Bounds="925,394,145,19" Id="HbMbZRURpyxOQJrEBU2hLn">
             <p:NodeReference LastCategoryFullName="Attractors.MorroneTransform" LastDependency="VL.Attractors.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessAppFlag" Name="Popcorn3D" />
@@ -415,6 +415,6 @@
       </Patch>
     </Node>
   </Patch>
-  <DocumentDependency Id="El7EJvCO4aROxuogDkgDbB" Location="../VL.Attractors.vl" />
   <NugetDependency Id="Hb0HR66KhgwPrWqUujplrm" Location="VL.Fuse" Version="1.0.0-alpha08" />
+  <NugetDependency Id="Fjj1nBr1xaWLkeqSzsNKr7" Location="VL.Attractors" Version="0.1.3" />
 </Document>
